@@ -1,10 +1,12 @@
 # Temporal trends of racial and socioeconomic disparities in population exposures to upstream oil and gas development in California
 
-Authors: David J.X. González*, Claire M. Morton, Lee Ann L. Hill, Drew R. Michanowicz, Robert J. Rossi, Seth B.C. Shonkoff, Joan A. Casey, and Rachel Morello-Frosch
+### Authors
+
+David J.X. González*, Claire M. Morton, Lee Ann L. Hill, Drew R. Michanowicz, Robert J. Rossi, Seth B.C. Shonkoff, Joan A. Casey, and Rachel Morello-Frosch
 
 ### Purpose
 
-This repository includes the code we used to set up and conduct the analyses presented in González et al. (under review). The key findings, abstract, and plain language summary for this study are copied below. We hope that this code can be used for instruction or for replication of our findings. We also hope that others will adapt and build on this code for further analyses. The datasets we used are listed below, and analytic files based on publicly-available data are available upon request. Once the study has been accepted for publication, we will post the link to the open access (i.e., free to read) peer-reviewed publication here. Please reach out to the corresponding author, David J.X. González (djxgonz@berkeley.edu), with any questions or data requests.
+This repository includes the code we used to set up and conduct the analyses presented in González et al. (under review). The key findings, abstract, and plain language summary for this study are copied below. We hope that this code can be used for instruction or for replication of our findings. We also hope that others will adapt and build on this code for further analyses. The datasets we used are listed below, and analytic files based on publicly-available data are available upon request. Once the study has been accepted for publication, we will post the link to the open access (i.e., free to read) peer-reviewed publication here. Please reach out to the corresponding author, *David J.X. González (djxgonz@berkeley.edu), with any questions or data requests.
 
 ### Data
 
