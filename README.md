@@ -4,7 +4,7 @@
 
 David J.X. González*, Claire M. Morton*, Lee Ann L. Hill, Drew R. Michanowicz, Robert J. Rossi, Seth B.C. Shonkoff, Joan A. Casey, and Rachel Morello-Frosch
 
-* These authors wrote the code used in the analyses
+\* These authors wrote the code used in the analyses
 
 ### Description
 
