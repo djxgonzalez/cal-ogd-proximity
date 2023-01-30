@@ -4,7 +4,7 @@
 
 David J.X. González*, Claire M. Morton, Lee Ann L. Hill, Drew R. Michanowicz, Robert J. Rossi, Seth B.C. Shonkoff, Joan A. Casey, and Rachel Morello-Frosch
 
-### Purpose
+### Description
 
 This repository includes the processed data and codebase we used to set up and conduct the analyses presented in González et al. (under review). The key findings, abstract, and plain language summary for this study are copied below. We hope that this code can be used for instruction or for replication of our findings. We also hope that others will adapt and build on this code for further analyses. 
 
@@ -12,11 +12,15 @@ The sources for raw datasets we used are listed below, and both raw and interim 
 
 Once the study has been accepted for publication, we will post the link to the open access (i.e., free to read) peer-reviewed article here. Please reach out to the corresponding author, *David J.X. González (djxgonz@berkeley.edu), with any questions or data requests.
 
-### Data
+### Data Sources
+
+For the analysis, we obtained data from the following sources:
 
 - [American Community Survey](https://www.census.gov/programs-surveys/acs), 5-year estimates of sociodemographic charateristics provided by the U.S. Census Bureau for block groups across California. Block groups are geographic units smaller than census tracts that roughly approximate neighborhoods and typically have 600 to 3,000 residents.
-- [California Geologic Energy Management Division (CalGEM)](https://www.conservation.ca.gov/calgem/Online_Data), publicly available data on oil and gas well locations and development dates.
+- [California Geologic Energy Management Division (CalGEM)](https://www.conservation.ca.gov/calgem/Online_Data), publicly available data on oil and gas well locations and development dates; also, monthly production volume at each well in the state.
 - [Enverus Drilling](https://www.enverus.com/), additional data on oil and gas well development. This dataset is not publicly available, but academic researchers may request access to the data for research purposes.
+
+We used additional data from other sources to generate figures (i.e., not for the analysis), including: monthly price of a barrel of oil equivalent at the Midway-Sunset Oil Field (a benchmark for California-produced oil) from the U.S. Energy Information Agency; shapefiles for California counties from the U.S. Census Bureau.
 
 ### Key Findings from the Study
 
