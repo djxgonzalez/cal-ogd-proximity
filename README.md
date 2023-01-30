@@ -2,7 +2,9 @@
 
 ### Authors
 
-David J.X. González*, Claire M. Morton, Lee Ann L. Hill, Drew R. Michanowicz, Robert J. Rossi, Seth B.C. Shonkoff, Joan A. Casey, and Rachel Morello-Frosch
+David J.X. González*, Claire M. Morton*, Lee Ann L. Hill, Drew R. Michanowicz, Robert J. Rossi, Seth B.C. Shonkoff, Joan A. Casey, and Rachel Morello-Frosch
+
+* These authors wrote the code used in the analyses
 
 ### Description
 
@@ -36,5 +38,3 @@ People living near oil and gas development are exposed to multiple environmental
 ### Plain Language Summary
 
 People living near oil and gas wells are exposed to pollutants that may adversely affect their health. We investigated whether racially or socioeconomically marginalized people in California had disproportionately higher exposure to wells. We also assessed whether disparities were wider in areas with more intensive oil and gas production. We examined changes in neighborhood-level sociodemographic characteristics in three time periods: 2005¬–2009, 2010–2014, and 2015–2019. For each neighborhood and time period, we estimated the number of wells and the total volume of oil and gas produced within 1 km (0.62 miles). We estimated that approximately 1.1 million Californians (3.0%) lived within 1 km of active wells between 2005 and 2019. The proportion of Black residents living near active wells was 42–49% higher than the proportion of Black residents across California, and the proportion of Latinx residents near active wells was 4–13% higher than their statewide proportion. For Black people, the disparities were widest in Los Angeles County neighborhoods with the most intensive production. Socioeconomically marginalized people also had disproportionately high exposure. Most disparities persisted throughout the 15-year study period. Black, Hispanic, and socioeconomically marginalized people had disproportionately high exposure to wells, potentially contributing to health disparities.
-
-
