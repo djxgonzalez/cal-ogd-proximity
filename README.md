@@ -20,7 +20,7 @@ For the analysis, we obtained data from the following sources:
 
 - [American Community Survey](https://www.census.gov/programs-surveys/acs), 5-year estimates of sociodemographic charateristics provided by the U.S. Census Bureau for block groups across California. Block groups are geographic units smaller than census tracts that roughly approximate neighborhoods and typically have 600 to 3,000 residents.
 - [California Geologic Energy Management Division (CalGEM)](https://www.conservation.ca.gov/calgem/Online_Data), publicly available data on oil and gas well locations and development dates; also, monthly production volume at each well in the state.
-- [Enverus Drilling](https://www.enverus.com/), additional data on oil and gas well development. This dataset is not publicly available, but academic researchers may request access to the data for research purposes.
+- [Enverus](https://www.enverus.com/), additional data on oil and gas well development. This dataset is not publicly available, but academic researchers may request access to the data for research purposes.
 
 We used additional data from other sources to generate figures (i.e., not for the analysis), including: monthly price of a barrel of oil equivalent at the Midway-Sunset Oil Field (a benchmark for California-produced oil) from the U.S. Energy Information Agency; shapefiles for California counties from the U.S. Census Bureau.
 
