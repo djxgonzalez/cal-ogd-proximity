@@ -1,4 +1,4 @@
-# Temporal trends of racial and socioeconomic disparities in population exposures to upstream oil and gas development in California
+# Temporal trends of racial and socioeconomic disparities in population exposures to upstream oil and gas development in California: Codebase and Dataset
 
 ### Authors
 
