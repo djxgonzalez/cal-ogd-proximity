@@ -4,8 +4,8 @@
 ##---------------------------------------------------------------------------
 ## setup
 
-# installs necessary packages; un-comment and run if needed
-#install.packages("tidyverse", "lubridate", "sf", "ggspatial")
+# installs necessary packages for this R project; un-comment and run if needed
+#install.packages("tidyverse", "lubridate", "sf", "ggspatial", "tidycensus")
 
 # attaches necessary packages
 library("tidyverse")
@@ -19,11 +19,7 @@ library("sf")
 '%!in%' <- function(x,y)!('%in%'(x,y))
 
 # coordinate reference system (CRS) for the project
-# unprojected CRS, NAD83, for geographic data
-crs_nad83 <- st_crs("+init=epsg:4269 +proj=longlat +ellps=GRS80
-                        +datum=NAD83 +no_defs +towgs84=0,0,0")  
-
-# projected CRS, for creating buffers
-crs_projected <- st_crs("+proj=utm +zone=11 +datum=WGS84") 
+crs_nad83     <- st_crs(4269) # NAD83 coordinate reference system
+crs_projected <- st_crs(5070) # Albers Equal-Area Conic projection, contiguous US
 
 ##============================================================================##

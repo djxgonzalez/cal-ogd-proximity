@@ -12,7 +12,7 @@ This repository includes the processed data and codebase we used to set up and c
 
 The sources for raw datasets we used are listed below, and both raw and interim analytic files based on publicly-available data are available upon request. The processed dataset used for all analyses is included in this repository under `data/processed/acs_exposure_2005_2019.rds`, which may be accessed using the `readRDS()` function in base R. We've also provided the processed data as a CSV file in the same sub-directory, though this file is not referenced in the code.
 
-Once the study has been accepted for publication, we will post the link to the open access (i.e., free to read) peer-reviewed article here. Please reach out to the corresponding author, *David J.X. González (djxgonz@berkeley.edu), with any questions or data requests.
+Once the study has been accepted for publication, we will post the link to the open access (i.e., free to read) peer-reviewed article here. Please reach out to the corresponding author, David J.X. González (djxgonz@berkeley.edu), with any questions or data requests.
 
 ### Data Sources
 

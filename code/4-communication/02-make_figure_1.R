@@ -7,7 +7,7 @@
 library("ggspatial")
 
 # data input ...................................... ......................
-acs_exposure_all_years <- readRDS("data/processed/acs_exposure_all_years.rds")
+acs_exposure_all_years <- readRDS("data/processed/acs_exposure_2005_2019.rds")
 cal_counties <- st_read("data/raw/us_census/admin_shp/CA_counties.shp") %>%
   st_transform(crs_nad83)
 calgem_prod_monthly <- readRDS("data/interim/calgem_prod_monthly_monthly.rds")
