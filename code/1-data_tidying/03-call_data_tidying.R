@@ -109,18 +109,5 @@ saveRDS (data_2009, file = "data/interim/acs_data_2009.rds")
 saveRDS (data_2014, file = "data/interim/acs_data_2014.rds")
 saveRDS (data_2019, file = "data/interim/acs_data_2019.rds")
 
-##============================================================================##
-## import from census
-
-library("tidycensus")
-census_api_key("f050313c3434806bd842edd164be92e986e5d8d5",
-               install = TRUE)
-
-acs_2015_2019 <- 
-  get_acs(geography = "block group",
-          )
-
-
-
 
 ##============================================================================##
