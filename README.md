@@ -8,11 +8,11 @@ David J.X. González*, Claire M. Morton*, Lee Ann L. Hill, Drew R. Michanowicz, 
 
 ### Description
 
-This repository includes the processed data and codebase we used to set up and conduct the analyses presented in González et al. (under review). The key findings, abstract, and plain language summary for this study are copied below. We hope that this code can be used for instruction or for replication of our findings. We also hope that others will adapt and build on this code for further analyses. 
+This repository includes the processed data and codebase we used to set up and conduct the analyses presented in González et al. (2023). The key findings, abstract, and plain language summary for this study are copied below. We hope that this code can be used for instruction or for replication of our findings. We also hope that others will adapt and build on this code for further analyses. You can read the open access (i.e., free to read) peer-reviewed article in *[GeoHealth](http://dx.doi.org/10.1029/2022GH000690)*. Please reach out to the corresponding author, David J.X. González (djxgonz@berkeley.edu), with any questions or data requests.
+
 
 The sources for raw datasets we used are listed below, and both raw and interim analytic files based on publicly-available data are available upon request. The processed dataset used for all analyses is included in this repository under `data/processed/acs_exposure_2005_2019.rds`, which may be accessed using the `readRDS()` function in base R. We've also provided the processed data as a CSV file in the same sub-directory, though this file is not referenced in the code.
 
-Once the study has been accepted for publication, we will post the link to the open access (i.e., free to read) peer-reviewed article here. Please reach out to the corresponding author, David J.X. González (djxgonz@berkeley.edu), with any questions or data requests.
 
 ### Data Sources
 
